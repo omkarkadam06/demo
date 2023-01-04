@@ -1,0 +1,30 @@
+
+@media only screen and (max-width: 768px){
+    
+ul li a{
+    font-size: 12px;
+    
+    padding-top: 10px;
+}
+
+ul{
+height: 120px;
+display: block;
+width: 40px; 
+padding: 0px;
+
+}
+
+.offcanvas__widget__add {
+    margin-bottom: 20px;
+}
+.offcanvas__widget__add li{
+    width:150px;
+}
+.offcanvas__logo {
+    margin-bottom: 0px;
+}
+.offcanvas__phone__num {
+    margin-bottom: 10px;
+}
+}
